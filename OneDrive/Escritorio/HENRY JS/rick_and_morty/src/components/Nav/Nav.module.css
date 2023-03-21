@@ -1,0 +1,30 @@
+.continerNav {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap-reverse;
+}
+.aAbout {
+    font-family: fantasy;
+ 
+    display: flex;
+    align-items: center;
+    background-color: #b2fed5d9;
+    color: #3F51B5;
+    height: fit-content;
+    font-size: 2rem;
+    padding: 0.5rem;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.aHome {
+    font-family: fantasy;
+    display: flex;
+    align-items: center; 
+    background-color: #b2fed5d9;
+    color: #3F51B5;
+    height: fit-content;
+    font-size: 2rem;
+    padding: 0.5rem;
+    border-radius: 10px;
+    text-decoration: none;
+}

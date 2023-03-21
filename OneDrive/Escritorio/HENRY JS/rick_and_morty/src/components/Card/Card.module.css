@@ -1,0 +1,70 @@
+
+
+.h2Na{
+ color: rgb(75, 32, 116);
+  
+  
+}
+.boton {
+  background-color: rgb(219, 26, 26);
+  
+  right: 0px;
+   top: 0px;
+   border-radius: 10px;
+   margin-left:0.5rem ;
+   width: 2rem;
+   height: 2rem;
+}
+.boton :hover{
+  transform: scale(1.1);
+  cursor: pointer;
+
+}
+
+.car {
+   background-color: #009688;
+   height: auto;
+   width:15%;
+   margin: auto;
+   padding: 0.5rem;
+   border-radius: 20px;
+   border: solid 2px;
+   
+}
+.car :hover{
+  transform: scale(1.1);
+}
+
+
+
+
+.h2Spe{
+   color: blueviolet;
+   bottom: 0px;
+  
+}
+
+.h2Gen{
+   color: blueviolet;
+   
+   right: 0px;
+   bottom: 0px;
+}
+ .car img {
+   width: 100% ;
+  
+   border-radius: 10px;
+ }
+
+ .car h2{ 
+   margin: 0.5rem;
+   font-size: 1rem;
+ }
+ .divBot{
+   display: flex;
+   justify-content: end;
+ }
+ .divBot :hover{
+    transform: scale(1.1);
+    cursor: pointer;
+ }

@@ -1,0 +1,17 @@
+.continerSearch {
+    width: 30%;
+    display: inline-flex;
+    align-items: center;
+    margin-right: 2rem;
+}
+.boton{
+  width: 25%;
+  height: 2rem;
+  background-color: rgb(17, 231, 71);
+  border-radius: 0px 10px 10px 0px;
+  border-left: 0px;
+}
+.inpu{
+    height: 2rem;
+    border-radius: 10px 0px 0px 10px;
+}

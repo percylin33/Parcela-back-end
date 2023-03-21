@@ -1,0 +1,14 @@
+.App {
+   text-align: center;
+   
+}
+
+.App  :hover {
+
+   
+ }
+
+.nav {
+   display: flex;
+   justify-content: space-between;
+}
