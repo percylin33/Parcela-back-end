@@ -15,6 +15,7 @@ export default function SearchBar(props) {
           <input className={o.inpu} type='search' onChange={handleInputChange} />
       <button className={o.boton} onClick={()=>props.onSearch(character)}>Agregar</button> 
       <button onClick={()=>props.logOut()} >LogOut</button>
+      {/* <button onClick={()} ></button> */}
       
       </div>
    );

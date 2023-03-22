@@ -13,6 +13,7 @@ function Nav(props) {
      <Titulo />
      <Link  to='/about' className={styled.aAbout} >About </Link >
      <Link to = '/home' className={styled.aHome} >Home</Link>
+     <Link to = "favorites" className={styled.aHome}>Favorites</Link>
      <SearchBar onSearch={(characterID)=> props.onSearch(characterID)} logOut = {props.logOut} ></SearchBar>
    </div>
 

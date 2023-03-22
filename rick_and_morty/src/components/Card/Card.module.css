@@ -62,9 +62,12 @@
  }
  .divBot{
    display: flex;
-   justify-content: end;
+   justify-content: space-between;
  }
  .divBot :hover{
     transform: scale(1.1);
     cursor: pointer;
+ }
+ .btnCora{
+  display: contents ;
  }
