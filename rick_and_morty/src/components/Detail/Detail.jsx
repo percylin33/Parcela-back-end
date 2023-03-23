@@ -25,8 +25,9 @@ export default function Detail(props){
     
 return( 
 <div className={styled.containerDe}>
-  <button className = {styled.boton} onClick={()=> navigate(-1)} >regresar</button>
+ 
   <div className={styled.contInfo}>
+     <button className = {styled.boton} onClick={()=> navigate(-1)} >regresar</button>
     <div className={styled.contH1}>
         <h1>Name: {character?.name}</h1>
         <h1>Status: {character?.status}</h1>

@@ -12,9 +12,9 @@ export default function SearchBar(props) {
    return (
       <div className={o.continerSearch}>
           
-          <input className={o.inpu} type='search' onChange={handleInputChange} />
-      <button className={o.boton} onClick={()=>props.onSearch(character)}>Agregar</button> 
-      <button onClick={()=>props.logOut()} >LogOut</button>
+          <input className={o.inpu} type='search' onChange={handleInputChange}  />
+      <button className={o.boton} onClick={()=>props.onSearch(character)} >Agregar</button> 
+      <button onClick={()=>props.logOut()} className={o.boton2} >LogOut</button>
       {/* <button onClick={()} ></button> */}
       
       </div>

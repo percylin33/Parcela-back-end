@@ -26,8 +26,9 @@
     width: 6rem;
     font-size: 1.2rem;
     border-radius: 10px;
-    margin-left: 6rem;
-    margin-bottom: 1.5rem;
+    position: absolute;
+    right: 2rem;
+  
 }
 .boton :hover{
     transform: scale(1.1);
