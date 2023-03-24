@@ -47,8 +47,10 @@ function  App () {
   const logOut = () =>{
     access && setAccess(false) 
     navigate("/")
+  }
 
-    
+  const alea = () => {
+    console.log('hola')
   }
   
    useEffect(() =>{
@@ -61,7 +63,7 @@ function  App () {
 
     <div className='App'  >
       {location.pathname !== "/" &&
-      <Nav onSearch= {onSearch} logOut={logOut} /> }
+      <Nav onSearch= {onSearch} logOut={logOut}  /> }
          
       <Routes>
         <Route path='/' element = {<Form login = {login} />} />
