@@ -18,6 +18,7 @@ import { useEffect, useState } from 'react';
          setIsFav(true)
          addFavorite(
           {  id,
+            name,
             species, 
             image, 
             gender, 

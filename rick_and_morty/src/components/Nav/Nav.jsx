@@ -4,7 +4,7 @@ import Titulo from "./Titulo/Titulo";
 import SearchBar from "./SearchBar/SearchBar";
 import styled from './Nav.module.css'
 import { Link } from "react-router-dom";
-import icoAbout from "../../assets/imagen/proyecto10.png"
+import icoAbout from "../../assets/imagen/about2.png"
 import icoHome from "../../assets/imagen/home.png"
 import icofavo from "../../assets/imagen/favorite.png"
 
