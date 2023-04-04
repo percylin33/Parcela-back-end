@@ -1,0 +1,32 @@
+.continerSearch {
+    width: 30%;
+    display: inline-flex;
+    align-items: center;
+   
+}
+.boton{
+  width: auto;
+  height: 2rem;
+  background-color: rgb(17, 231, 71);
+  border-right-width: 0px;
+  border-left: 0px;
+}
+.inpu{
+    height: 2rem;
+    border-radius: 10px 0px 0px 10px;
+}
+.boton2{
+  position: absolute;
+  right: 1.5rem;
+  top: 0.5rem;
+  background-color: red;
+  border-radius: 10px;
+  height: 2rem;
+
+}
+.botonAle{
+       background-color: #ffc89a;
+    margin: 0;
+    height: 2rem;
+    border-radius: 0px 20px 20px 2px;
+}
