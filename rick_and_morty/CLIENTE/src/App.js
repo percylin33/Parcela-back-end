@@ -16,7 +16,7 @@ function  App () {
   const password = "percy123";
   
   const onSearch = (id)=> {
-    fetch(`http://localhost:3001/rickandmorty/character/${id}`)
+    fetch(`http://localhost:3001/rickandmorty/character/onsearch/${id}`)
     .then((res) => res.json())
     .then((data) => {
       // data --> {}

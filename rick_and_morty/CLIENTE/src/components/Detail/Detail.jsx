@@ -8,7 +8,7 @@ export default function Detail(props){
   const [character, setCharacter ]= useState({});
     
     useEffect(() => {
-        fetch(`http://localhost:3001/rickandmorty/character/${detailId}`)
+        fetch(`http://localhost:3001/rickandmorty/character/onsearch/${detailId}`)
           .then((response) => response.json())
           .then((char) => {
             if (char.name) {
