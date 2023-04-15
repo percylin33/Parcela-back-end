@@ -7,6 +7,7 @@ import About from './components/About/About';
 import Detail from './components/Detail/Detail';
 import Form from './components/Form/Form';
 import Favorites from './components/Favorites/Favorites';
+import axios from  "axios"; 
 function  App () {
   const navigate =  useNavigate();
   const location = useLocation();
@@ -16,7 +17,7 @@ function  App () {
   const password = "percy123";
   
   const onSearch = (id)=> {
-    fetch(`http://localhost:3001/rickandmorty/character/onsearch/${id}`)
+    fetch(`http://localhost:3001/rickandmorty/character/${id}`)
     .then((res) => res.json())
     .then((data) => {
       // data --> {}
@@ -26,12 +27,13 @@ function  App () {
    // .catch((error) => console.log(error));
   };
     
+  
   const onClose = (id)=>{
     const filtered = characters.filter((char)=>char.id !== Number(id)) 
     setCharacters(filtered)
   }
 
-  const login = (userData) => {
+  const logOut = (userData) => {
  
     if(userData.userName === userName
     && 
@@ -44,10 +46,20 @@ function  App () {
     
   };
 
-  const logOut = () =>{
-    access && setAccess(false) 
-    navigate("/")
-  }
+  // const logOut = () =>{
+  //   access && setAccess(false) 
+  //   navigate("/")
+  // }
+
+  function login(userData) {
+    const { userName, password } = userData;
+    const URL = 'http://localhost:3001/rickandmorty/login/';
+    axios(URL + `?email=${userName}&password=${password}`).then(({ data }) => {
+       const { access } = data;
+       setAccess(data);
+       access && navigate('/home');
+    });
+ }
 
   const alea = () => {
     console.log('hola')
