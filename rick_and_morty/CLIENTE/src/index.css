@@ -1,4 +1,7 @@
-
+h2{
+  text-decoration: none;
+  list-style: none
+}
 body {
  background-image: url('../src/assets/imagen/fondo.jpg ');
   width: 100%vh;
