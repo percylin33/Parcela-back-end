@@ -44,23 +44,23 @@ function  App () {
     setCharacters(filtered)
   }
 
-  const logOut = (userData) => {
+  // const logOut = (userData) => {
  
-    if(userData.userName === userName
-    && 
-    userData.password === password){
-        setAccess(true);
-        navigate("/home")
-    }else{
-      alert("Usuario y contraseña noson correctos")
-    }
+  //   if(userData.userName === userName
+  //   && 
+  //   userData.password === password){
+  //       setAccess(true);
+  //       navigate("/home")
+  //   }else{
+  //     alert("Usuario y contraseña noson correctos")
+  //   }
     
-  };
+  // };
 
-  // const logOut = () =>{
-  //   access && setAccess(false) 
-  //   navigate("/")
-  // }
+  const logOut = () =>{
+    access && setAccess(false) 
+    navigate("/")
+  }
 
   async function login(userData) {
     const { userName, password } = userData;
@@ -87,9 +87,7 @@ function  App () {
     // });
  }
 
-  const alea = () => {
-    console.log('hola')
-  }
+ 
   
    useEffect(() =>{
      !access && navigate("/")
