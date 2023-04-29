@@ -15,11 +15,12 @@ async function getCharById(req, res) {
       }
       res.status(200).json(response);
    
-  } catch (error) {
-    res.status(500).json({message: error.message});
+    } catch (error) {
+      res.status(500).json({message: error.message});
+    }
   }
-}
-
+  
+  module.exports = {getCharById};
 
 // function getCharById(req, res) {
 //   const {id} = req.params;
@@ -37,7 +38,6 @@ async function getCharById(req, res) {
 
 
 
-module.exports = {getCharById};
 
 
 
