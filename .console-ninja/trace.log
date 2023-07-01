@@ -1,0 +1,1356 @@
+15:38:33.044 ERR! host worker   syscall: 'open',
+15:38:33.044 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.044 ERR! host worker }
+15:38:33.045 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.045 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.045 ERR! host worker   errno: -4058,
+15:38:33.045 ERR! host worker   code: 'ENOENT',
+15:38:33.045 ERR! host worker   syscall: 'open',
+15:38:33.045 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.045 ERR! host worker }
+15:38:33.046 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.046 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.046 ERR! host worker   errno: -4058,
+15:38:33.046 ERR! host worker   code: 'ENOENT',
+15:38:33.046 ERR! host worker   syscall: 'open',
+15:38:33.046 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.046 ERR! host worker }
+15:38:33.047 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.047 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.047 ERR! host worker   errno: -4058,
+15:38:33.047 ERR! host worker   code: 'ENOENT',
+15:38:33.047 ERR! host worker   syscall: 'open',
+15:38:33.047 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.047 ERR! host worker }
+15:38:33.048 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.048 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.048 ERR! host worker   errno: -4058,
+15:38:33.048 ERR! host worker   code: 'ENOENT',
+15:38:33.048 ERR! host worker   syscall: 'open',
+15:38:33.048 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.048 ERR! host worker }
+15:38:33.049 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.049 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.049 ERR! host worker   errno: -4058,
+15:38:33.049 ERR! host worker   code: 'ENOENT',
+15:38:33.049 ERR! host worker   syscall: 'open',
+15:38:33.049 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.049 ERR! host worker }
+15:38:33.050 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.050 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.050 ERR! host worker   errno: -4058,
+15:38:33.050 ERR! host worker   code: 'ENOENT',
+15:38:33.050 ERR! host worker   syscall: 'open',
+15:38:33.050 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.050 ERR! host worker }
+15:38:33.051 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.051 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.051 ERR! host worker   errno: -4058,
+15:38:33.051 ERR! host worker   code: 'ENOENT',
+15:38:33.051 ERR! host worker   syscall: 'open',
+15:38:33.051 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.051 ERR! host worker }
+15:38:33.052 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.052 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.052 ERR! host worker   errno: -4058,
+15:38:33.052 ERR! host worker   code: 'ENOENT',
+15:38:33.052 ERR! host worker   syscall: 'open',
+15:38:33.052 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.052 ERR! host worker }
+15:38:33.054 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.054 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.054 ERR! host worker   errno: -4058,
+15:38:33.054 ERR! host worker   code: 'ENOENT',
+15:38:33.054 ERR! host worker   syscall: 'open',
+15:38:33.054 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.054 ERR! host worker }
+15:38:33.054 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.054 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.054 ERR! host worker   errno: -4058,
+15:38:33.054 ERR! host worker   code: 'ENOENT',
+15:38:33.054 ERR! host worker   syscall: 'open',
+15:38:33.054 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.054 ERR! host worker }
+15:38:33.055 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.055 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.055 ERR! host worker   errno: -4058,
+15:38:33.055 ERR! host worker   code: 'ENOENT',
+15:38:33.055 ERR! host worker   syscall: 'open',
+15:38:33.055 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.055 ERR! host worker }
+15:38:33.056 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.056 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.056 ERR! host worker   errno: -4058,
+15:38:33.056 ERR! host worker   code: 'ENOENT',
+15:38:33.056 ERR! host worker   syscall: 'open',
+15:38:33.056 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.056 ERR! host worker }
+15:38:33.057 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.057 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.057 ERR! host worker   errno: -4058,
+15:38:33.057 ERR! host worker   code: 'ENOENT',
+15:38:33.057 ERR! host worker   syscall: 'open',
+15:38:33.057 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.058 ERR! host worker }
+15:38:33.059 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.059 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.059 ERR! host worker   errno: -4058,
+15:38:33.059 ERR! host worker   code: 'ENOENT',
+15:38:33.059 ERR! host worker   syscall: 'open',
+15:38:33.059 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.059 ERR! host worker }
+15:38:33.060 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.060 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.060 ERR! host worker   errno: -4058,
+15:38:33.060 ERR! host worker   code: 'ENOENT',
+15:38:33.060 ERR! host worker   syscall: 'open',
+15:38:33.060 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.060 ERR! host worker }
+15:38:33.061 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.061 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.061 ERR! host worker   errno: -4058,
+15:38:33.061 ERR! host worker   code: 'ENOENT',
+15:38:33.061 ERR! host worker   syscall: 'open',
+15:38:33.061 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.061 ERR! host worker }
+15:38:33.062 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.062 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.062 ERR! host worker   errno: -4058,
+15:38:33.062 ERR! host worker   code: 'ENOENT',
+15:38:33.062 ERR! host worker   syscall: 'open',
+15:38:33.062 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.062 ERR! host worker }
+15:38:33.063 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.063 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.063 ERR! host worker   errno: -4058,
+15:38:33.063 ERR! host worker   code: 'ENOENT',
+15:38:33.063 ERR! host worker   syscall: 'open',
+15:38:33.063 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.063 ERR! host worker }
+15:38:33.064 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.064 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.064 ERR! host worker   errno: -4058,
+15:38:33.064 ERR! host worker   code: 'ENOENT',
+15:38:33.064 ERR! host worker   syscall: 'open',
+15:38:33.064 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.064 ERR! host worker }
+15:38:33.065 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.065 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.065 ERR! host worker   errno: -4058,
+15:38:33.065 ERR! host worker   code: 'ENOENT',
+15:38:33.065 ERR! host worker   syscall: 'open',
+15:38:33.065 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.065 ERR! host worker }
+15:38:33.066 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.066 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.066 ERR! host worker   errno: -4058,
+15:38:33.066 ERR! host worker   code: 'ENOENT',
+15:38:33.066 ERR! host worker   syscall: 'open',
+15:38:33.066 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.066 ERR! host worker }
+15:38:33.068 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.068 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.068 ERR! host worker   errno: -4058,
+15:38:33.068 ERR! host worker   code: 'ENOENT',
+15:38:33.068 ERR! host worker   syscall: 'open',
+15:38:33.068 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.068 ERR! host worker }
+15:38:33.069 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.069 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.069 ERR! host worker   errno: -4058,
+15:38:33.069 ERR! host worker   code: 'ENOENT',
+15:38:33.069 ERR! host worker   syscall: 'open',
+15:38:33.069 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.069 ERR! host worker }
+15:38:33.069 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.070 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.070 ERR! host worker   errno: -4058,
+15:38:33.070 ERR! host worker   code: 'ENOENT',
+15:38:33.070 ERR! host worker   syscall: 'open',
+15:38:33.070 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.070 ERR! host worker }
+15:38:33.070 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.070 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.070 ERR! host worker   errno: -4058,
+15:38:33.070 ERR! host worker   code: 'ENOENT',
+15:38:33.070 ERR! host worker   syscall: 'open',
+15:38:33.070 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.070 ERR! host worker }
+15:38:33.072 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.072 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.072 ERR! host worker   errno: -4058,
+15:38:33.072 ERR! host worker   code: 'ENOENT',
+15:38:33.072 ERR! host worker   syscall: 'open',
+15:38:33.072 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.072 ERR! host worker }
+15:38:33.073 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.073 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.073 ERR! host worker   errno: -4058,
+15:38:33.073 ERR! host worker   code: 'ENOENT',
+15:38:33.073 ERR! host worker   syscall: 'open',
+15:38:33.073 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.073 ERR! host worker }
+15:38:33.074 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.074 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.074 ERR! host worker   errno: -4058,
+15:38:33.074 ERR! host worker   code: 'ENOENT',
+15:38:33.074 ERR! host worker   syscall: 'open',
+15:38:33.074 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.074 ERR! host worker }
+15:38:33.075 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.075 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.075 ERR! host worker   errno: -4058,
+15:38:33.075 ERR! host worker   code: 'ENOENT',
+15:38:33.075 ERR! host worker   syscall: 'open',
+15:38:33.075 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.075 ERR! host worker }
+15:38:33.076 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.076 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.076 ERR! host worker   errno: -4058,
+15:38:33.076 ERR! host worker   code: 'ENOENT',
+15:38:33.076 ERR! host worker   syscall: 'open',
+15:38:33.076 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.076 ERR! host worker }
+15:38:33.077 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.077 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.077 ERR! host worker   errno: -4058,
+15:38:33.077 ERR! host worker   code: 'ENOENT',
+15:38:33.077 ERR! host worker   syscall: 'open',
+15:38:33.077 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.077 ERR! host worker }
+15:38:33.077 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.077 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.077 ERR! host worker   errno: -4058,
+15:38:33.077 ERR! host worker   code: 'ENOENT',
+15:38:33.077 ERR! host worker   syscall: 'open',
+15:38:33.077 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.077 ERR! host worker }
+15:38:33.078 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.078 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.078 ERR! host worker   errno: -4058,
+15:38:33.078 ERR! host worker   code: 'ENOENT',
+15:38:33.078 ERR! host worker   syscall: 'open',
+15:38:33.078 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.078 ERR! host worker }
+15:38:33.079 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.079 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.079 ERR! host worker   errno: -4058,
+15:38:33.079 ERR! host worker   code: 'ENOENT',
+15:38:33.079 ERR! host worker   syscall: 'open',
+15:38:33.079 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.079 ERR! host worker }
+15:38:33.079 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.079 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.079 ERR! host worker   errno: -4058,
+15:38:33.079 ERR! host worker   code: 'ENOENT',
+15:38:33.079 ERR! host worker   syscall: 'open',
+15:38:33.079 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.079 ERR! host worker }
+15:38:33.080 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.080 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.080 ERR! host worker   errno: -4058,
+15:38:33.080 ERR! host worker   code: 'ENOENT',
+15:38:33.080 ERR! host worker   syscall: 'open',
+15:38:33.080 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.080 ERR! host worker }
+15:38:33.081 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.081 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.081 ERR! host worker   errno: -4058,
+15:38:33.081 ERR! host worker   code: 'ENOENT',
+15:38:33.081 ERR! host worker   syscall: 'open',
+15:38:33.081 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.081 ERR! host worker }
+15:38:33.082 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.082 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.082 ERR! host worker   errno: -4058,
+15:38:33.082 ERR! host worker   code: 'ENOENT',
+15:38:33.082 ERR! host worker   syscall: 'open',
+15:38:33.082 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.082 ERR! host worker }
+15:38:33.083 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.084 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.084 ERR! host worker   errno: -4058,
+15:38:33.084 ERR! host worker   code: 'ENOENT',
+15:38:33.084 ERR! host worker   syscall: 'open',
+15:38:33.084 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.084 ERR! host worker }
+15:38:33.085 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.085 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.085 ERR! host worker   errno: -4058,
+15:38:33.085 ERR! host worker   code: 'ENOENT',
+15:38:33.085 ERR! host worker   syscall: 'open',
+15:38:33.085 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.085 ERR! host worker }
+15:38:33.086 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.086 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.086 ERR! host worker   errno: -4058,
+15:38:33.086 ERR! host worker   code: 'ENOENT',
+15:38:33.086 ERR! host worker   syscall: 'open',
+15:38:33.086 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.086 ERR! host worker }
+15:38:33.086 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.086 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.087 ERR! host worker   errno: -4058,
+15:38:33.087 ERR! host worker   code: 'ENOENT',
+15:38:33.087 ERR! host worker   syscall: 'open',
+15:38:33.087 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.087 ERR! host worker }
+15:38:33.088 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.088 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.088 ERR! host worker   errno: -4058,
+15:38:33.088 ERR! host worker   code: 'ENOENT',
+15:38:33.088 ERR! host worker   syscall: 'open',
+15:38:33.088 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.088 ERR! host worker }
+15:38:33.090 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.090 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.090 ERR! host worker   errno: -4058,
+15:38:33.090 ERR! host worker   code: 'ENOENT',
+15:38:33.090 ERR! host worker   syscall: 'open',
+15:38:33.090 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.090 ERR! host worker }
+15:38:33.091 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.091 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.091 ERR! host worker   errno: -4058,
+15:38:33.091 ERR! host worker   code: 'ENOENT',
+15:38:33.091 ERR! host worker   syscall: 'open',
+15:38:33.091 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.091 ERR! host worker }
+15:38:33.093 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.093 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.093 ERR! host worker   errno: -4058,
+15:38:33.093 ERR! host worker   code: 'ENOENT',
+15:38:33.093 ERR! host worker   syscall: 'open',
+15:38:33.093 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.093 ERR! host worker }
+15:38:33.094 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.094 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.094 ERR! host worker   errno: -4058,
+15:38:33.094 ERR! host worker   code: 'ENOENT',
+15:38:33.094 ERR! host worker   syscall: 'open',
+15:38:33.094 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.094 ERR! host worker }
+15:38:33.095 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.095 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.095 ERR! host worker   errno: -4058,
+15:38:33.095 ERR! host worker   code: 'ENOENT',
+15:38:33.095 ERR! host worker   syscall: 'open',
+15:38:33.095 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.095 ERR! host worker }
+15:38:33.096 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.096 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.096 ERR! host worker   errno: -4058,
+15:38:33.096 ERR! host worker   code: 'ENOENT',
+15:38:33.096 ERR! host worker   syscall: 'open',
+15:38:33.096 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.096 ERR! host worker }
+15:38:33.098 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.098 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.098 ERR! host worker   errno: -4058,
+15:38:33.098 ERR! host worker   code: 'ENOENT',
+15:38:33.098 ERR! host worker   syscall: 'open',
+15:38:33.098 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.098 ERR! host worker }
+15:38:33.099 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.099 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.099 ERR! host worker   errno: -4058,
+15:38:33.099 ERR! host worker   code: 'ENOENT',
+15:38:33.099 ERR! host worker   syscall: 'open',
+15:38:33.099 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.099 ERR! host worker }
+15:38:33.100 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.100 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.100 ERR! host worker   errno: -4058,
+15:38:33.100 ERR! host worker   code: 'ENOENT',
+15:38:33.100 ERR! host worker   syscall: 'open',
+15:38:33.100 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.100 ERR! host worker }
+15:38:33.101 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:33.101 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:33.101 ERR! host worker   errno: -4058,
+15:38:33.101 ERR! host worker   code: 'ENOENT',
+15:38:33.101 ERR! host worker   syscall: 'open',
+15:38:33.101 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:33.101 ERR! host worker }
+15:38:36.404 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.404 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.405 ERR! host worker   errno: -4058,
+15:38:36.405 ERR! host worker   code: 'ENOENT',
+15:38:36.405 ERR! host worker   syscall: 'open',
+15:38:36.405 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.405 ERR! host worker }
+15:38:36.411 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.411 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.411 ERR! host worker   errno: -4058,
+15:38:36.411 ERR! host worker   code: 'ENOENT',
+15:38:36.411 ERR! host worker   syscall: 'open',
+15:38:36.411 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.411 ERR! host worker }
+15:38:36.412 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.413 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.413 ERR! host worker   errno: -4058,
+15:38:36.413 ERR! host worker   code: 'ENOENT',
+15:38:36.413 ERR! host worker   syscall: 'open',
+15:38:36.413 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.413 ERR! host worker }
+15:38:36.414 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.414 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.414 ERR! host worker   errno: -4058,
+15:38:36.414 ERR! host worker   code: 'ENOENT',
+15:38:36.414 ERR! host worker   syscall: 'open',
+15:38:36.414 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.414 ERR! host worker }
+15:38:36.415 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.415 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.415 ERR! host worker   errno: -4058,
+15:38:36.415 ERR! host worker   code: 'ENOENT',
+15:38:36.415 ERR! host worker   syscall: 'open',
+15:38:36.415 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.415 ERR! host worker }
+15:38:36.417 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.417 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.417 ERR! host worker   errno: -4058,
+15:38:36.417 ERR! host worker   code: 'ENOENT',
+15:38:36.417 ERR! host worker   syscall: 'open',
+15:38:36.417 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.417 ERR! host worker }
+15:38:36.419 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.419 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.419 ERR! host worker   errno: -4058,
+15:38:36.419 ERR! host worker   code: 'ENOENT',
+15:38:36.419 ERR! host worker   syscall: 'open',
+15:38:36.419 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.419 ERR! host worker }
+15:38:36.420 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.420 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.420 ERR! host worker   errno: -4058,
+15:38:36.420 ERR! host worker   code: 'ENOENT',
+15:38:36.420 ERR! host worker   syscall: 'open',
+15:38:36.420 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.420 ERR! host worker }
+15:38:36.421 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.421 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.421 ERR! host worker   errno: -4058,
+15:38:36.421 ERR! host worker   code: 'ENOENT',
+15:38:36.421 ERR! host worker   syscall: 'open',
+15:38:36.421 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.421 ERR! host worker }
+15:38:36.422 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.422 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.422 ERR! host worker   errno: -4058,
+15:38:36.422 ERR! host worker   code: 'ENOENT',
+15:38:36.422 ERR! host worker   syscall: 'open',
+15:38:36.422 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.422 ERR! host worker }
+15:38:36.423 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.423 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.423 ERR! host worker   errno: -4058,
+15:38:36.423 ERR! host worker   code: 'ENOENT',
+15:38:36.423 ERR! host worker   syscall: 'open',
+15:38:36.423 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.423 ERR! host worker }
+15:38:36.424 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.424 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.424 ERR! host worker   errno: -4058,
+15:38:36.424 ERR! host worker   code: 'ENOENT',
+15:38:36.424 ERR! host worker   syscall: 'open',
+15:38:36.424 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.424 ERR! host worker }
+15:38:36.426 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.426 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.426 ERR! host worker   errno: -4058,
+15:38:36.426 ERR! host worker   code: 'ENOENT',
+15:38:36.426 ERR! host worker   syscall: 'open',
+15:38:36.426 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.426 ERR! host worker }
+15:38:36.427 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.427 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.427 ERR! host worker   errno: -4058,
+15:38:36.427 ERR! host worker   code: 'ENOENT',
+15:38:36.427 ERR! host worker   syscall: 'open',
+15:38:36.427 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.427 ERR! host worker }
+15:38:36.428 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.428 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.428 ERR! host worker   errno: -4058,
+15:38:36.428 ERR! host worker   code: 'ENOENT',
+15:38:36.428 ERR! host worker   syscall: 'open',
+15:38:36.428 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.428 ERR! host worker }
+15:38:36.429 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.429 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.429 ERR! host worker   errno: -4058,
+15:38:36.429 ERR! host worker   code: 'ENOENT',
+15:38:36.429 ERR! host worker   syscall: 'open',
+15:38:36.429 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.429 ERR! host worker }
+15:38:36.432 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.432 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.432 ERR! host worker   errno: -4058,
+15:38:36.432 ERR! host worker   code: 'ENOENT',
+15:38:36.432 ERR! host worker   syscall: 'open',
+15:38:36.432 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.432 ERR! host worker }
+15:38:36.433 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.433 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.433 ERR! host worker   errno: -4058,
+15:38:36.433 ERR! host worker   code: 'ENOENT',
+15:38:36.433 ERR! host worker   syscall: 'open',
+15:38:36.433 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.433 ERR! host worker }
+15:38:36.434 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.434 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.434 ERR! host worker   errno: -4058,
+15:38:36.434 ERR! host worker   code: 'ENOENT',
+15:38:36.434 ERR! host worker   syscall: 'open',
+15:38:36.434 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.434 ERR! host worker }
+15:38:36.435 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.435 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.435 ERR! host worker   errno: -4058,
+15:38:36.435 ERR! host worker   code: 'ENOENT',
+15:38:36.435 ERR! host worker   syscall: 'open',
+15:38:36.435 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.435 ERR! host worker }
+15:38:36.436 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.437 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.437 ERR! host worker   errno: -4058,
+15:38:36.437 ERR! host worker   code: 'ENOENT',
+15:38:36.437 ERR! host worker   syscall: 'open',
+15:38:36.437 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.437 ERR! host worker }
+15:38:36.438 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.438 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.438 ERR! host worker   errno: -4058,
+15:38:36.438 ERR! host worker   code: 'ENOENT',
+15:38:36.438 ERR! host worker   syscall: 'open',
+15:38:36.438 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.438 ERR! host worker }
+15:38:36.439 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.439 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.439 ERR! host worker   errno: -4058,
+15:38:36.439 ERR! host worker   code: 'ENOENT',
+15:38:36.439 ERR! host worker   syscall: 'open',
+15:38:36.440 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.440 ERR! host worker }
+15:38:36.441 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.441 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.441 ERR! host worker   errno: -4058,
+15:38:36.441 ERR! host worker   code: 'ENOENT',
+15:38:36.441 ERR! host worker   syscall: 'open',
+15:38:36.441 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.441 ERR! host worker }
+15:38:36.442 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.442 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.442 ERR! host worker   errno: -4058,
+15:38:36.442 ERR! host worker   code: 'ENOENT',
+15:38:36.442 ERR! host worker   syscall: 'open',
+15:38:36.442 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.442 ERR! host worker }
+15:38:36.462 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.462 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.462 ERR! host worker   errno: -4058,
+15:38:36.462 ERR! host worker   code: 'ENOENT',
+15:38:36.462 ERR! host worker   syscall: 'open',
+15:38:36.462 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.462 ERR! host worker }
+15:38:36.464 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.465 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.465 ERR! host worker   errno: -4058,
+15:38:36.465 ERR! host worker   code: 'ENOENT',
+15:38:36.465 ERR! host worker   syscall: 'open',
+15:38:36.465 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.465 ERR! host worker }
+15:38:36.466 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.466 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.466 ERR! host worker   errno: -4058,
+15:38:36.466 ERR! host worker   code: 'ENOENT',
+15:38:36.466 ERR! host worker   syscall: 'open',
+15:38:36.466 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.467 ERR! host worker }
+15:38:36.471 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.471 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.471 ERR! host worker   errno: -4058,
+15:38:36.471 ERR! host worker   code: 'ENOENT',
+15:38:36.471 ERR! host worker   syscall: 'open',
+15:38:36.471 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.471 ERR! host worker }
+15:38:36.472 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.472 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.472 ERR! host worker   errno: -4058,
+15:38:36.472 ERR! host worker   code: 'ENOENT',
+15:38:36.472 ERR! host worker   syscall: 'open',
+15:38:36.472 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.472 ERR! host worker }
+15:38:36.473 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.473 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.473 ERR! host worker   errno: -4058,
+15:38:36.473 ERR! host worker   code: 'ENOENT',
+15:38:36.473 ERR! host worker   syscall: 'open',
+15:38:36.473 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.473 ERR! host worker }
+15:38:36.474 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.474 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.474 ERR! host worker   errno: -4058,
+15:38:36.474 ERR! host worker   code: 'ENOENT',
+15:38:36.474 ERR! host worker   syscall: 'open',
+15:38:36.474 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.475 ERR! host worker }
+15:38:36.475 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.475 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.475 ERR! host worker   errno: -4058,
+15:38:36.476 ERR! host worker   code: 'ENOENT',
+15:38:36.476 ERR! host worker   syscall: 'open',
+15:38:36.476 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.476 ERR! host worker }
+15:38:36.477 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.477 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.477 ERR! host worker   errno: -4058,
+15:38:36.477 ERR! host worker   code: 'ENOENT',
+15:38:36.477 ERR! host worker   syscall: 'open',
+15:38:36.477 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.477 ERR! host worker }
+15:38:36.479 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.479 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.479 ERR! host worker   errno: -4058,
+15:38:36.479 ERR! host worker   code: 'ENOENT',
+15:38:36.479 ERR! host worker   syscall: 'open',
+15:38:36.479 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.479 ERR! host worker }
+15:38:36.480 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.480 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.480 ERR! host worker   errno: -4058,
+15:38:36.481 ERR! host worker   code: 'ENOENT',
+15:38:36.481 ERR! host worker   syscall: 'open',
+15:38:36.481 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.481 ERR! host worker }
+15:38:36.485 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.485 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.485 ERR! host worker   errno: -4058,
+15:38:36.485 ERR! host worker   code: 'ENOENT',
+15:38:36.485 ERR! host worker   syscall: 'open',
+15:38:36.485 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.485 ERR! host worker }
+15:38:36.486 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.486 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.486 ERR! host worker   errno: -4058,
+15:38:36.486 ERR! host worker   code: 'ENOENT',
+15:38:36.486 ERR! host worker   syscall: 'open',
+15:38:36.486 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.486 ERR! host worker }
+15:38:36.487 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.487 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.487 ERR! host worker   errno: -4058,
+15:38:36.487 ERR! host worker   code: 'ENOENT',
+15:38:36.487 ERR! host worker   syscall: 'open',
+15:38:36.487 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.487 ERR! host worker }
+15:38:36.488 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.488 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.488 ERR! host worker   errno: -4058,
+15:38:36.489 ERR! host worker   code: 'ENOENT',
+15:38:36.489 ERR! host worker   syscall: 'open',
+15:38:36.489 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.489 ERR! host worker }
+15:38:36.490 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.490 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.490 ERR! host worker   errno: -4058,
+15:38:36.490 ERR! host worker   code: 'ENOENT',
+15:38:36.490 ERR! host worker   syscall: 'open',
+15:38:36.490 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.490 ERR! host worker }
+15:38:36.491 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.492 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.492 ERR! host worker   errno: -4058,
+15:38:36.492 ERR! host worker   code: 'ENOENT',
+15:38:36.492 ERR! host worker   syscall: 'open',
+15:38:36.492 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.492 ERR! host worker }
+15:38:36.493 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.493 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.493 ERR! host worker   errno: -4058,
+15:38:36.493 ERR! host worker   code: 'ENOENT',
+15:38:36.493 ERR! host worker   syscall: 'open',
+15:38:36.493 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.493 ERR! host worker }
+15:38:36.494 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.494 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.494 ERR! host worker   errno: -4058,
+15:38:36.494 ERR! host worker   code: 'ENOENT',
+15:38:36.494 ERR! host worker   syscall: 'open',
+15:38:36.494 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.494 ERR! host worker }
+15:38:36.495 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.495 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.495 ERR! host worker   errno: -4058,
+15:38:36.495 ERR! host worker   code: 'ENOENT',
+15:38:36.495 ERR! host worker   syscall: 'open',
+15:38:36.495 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.495 ERR! host worker }
+15:38:36.496 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.496 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.496 ERR! host worker   errno: -4058,
+15:38:36.496 ERR! host worker   code: 'ENOENT',
+15:38:36.496 ERR! host worker   syscall: 'open',
+15:38:36.496 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.496 ERR! host worker }
+15:38:36.498 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.498 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.498 ERR! host worker   errno: -4058,
+15:38:36.498 ERR! host worker   code: 'ENOENT',
+15:38:36.498 ERR! host worker   syscall: 'open',
+15:38:36.498 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.498 ERR! host worker }
+15:38:36.499 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.500 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.500 ERR! host worker   errno: -4058,
+15:38:36.500 ERR! host worker   code: 'ENOENT',
+15:38:36.500 ERR! host worker   syscall: 'open',
+15:38:36.500 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.500 ERR! host worker }
+15:38:36.501 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.501 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.501 ERR! host worker   errno: -4058,
+15:38:36.501 ERR! host worker   code: 'ENOENT',
+15:38:36.501 ERR! host worker   syscall: 'open',
+15:38:36.501 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.501 ERR! host worker }
+15:38:36.504 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.505 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.505 ERR! host worker   errno: -4058,
+15:38:36.505 ERR! host worker   code: 'ENOENT',
+15:38:36.505 ERR! host worker   syscall: 'open',
+15:38:36.505 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.505 ERR! host worker }
+15:38:36.506 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.506 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.506 ERR! host worker   errno: -4058,
+15:38:36.506 ERR! host worker   code: 'ENOENT',
+15:38:36.506 ERR! host worker   syscall: 'open',
+15:38:36.506 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.506 ERR! host worker }
+15:38:36.507 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.507 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.507 ERR! host worker   errno: -4058,
+15:38:36.507 ERR! host worker   code: 'ENOENT',
+15:38:36.507 ERR! host worker   syscall: 'open',
+15:38:36.507 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.507 ERR! host worker }
+15:38:36.508 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.508 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.508 ERR! host worker   errno: -4058,
+15:38:36.508 ERR! host worker   code: 'ENOENT',
+15:38:36.508 ERR! host worker   syscall: 'open',
+15:38:36.508 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.508 ERR! host worker }
+15:38:36.509 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.509 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.509 ERR! host worker   errno: -4058,
+15:38:36.509 ERR! host worker   code: 'ENOENT',
+15:38:36.509 ERR! host worker   syscall: 'open',
+15:38:36.509 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.509 ERR! host worker }
+15:38:36.513 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.513 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.513 ERR! host worker   errno: -4058,
+15:38:36.513 ERR! host worker   code: 'ENOENT',
+15:38:36.513 ERR! host worker   syscall: 'open',
+15:38:36.513 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.513 ERR! host worker }
+15:38:36.514 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.514 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.514 ERR! host worker   errno: -4058,
+15:38:36.514 ERR! host worker   code: 'ENOENT',
+15:38:36.533 ERR! host worker   syscall: 'open',
+15:38:36.533 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.533 ERR! host worker }
+15:38:36.535 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.535 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.535 ERR! host worker   errno: -4058,
+15:38:36.535 ERR! host worker   code: 'ENOENT',
+15:38:36.535 ERR! host worker   syscall: 'open',
+15:38:36.535 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.535 ERR! host worker }
+15:38:36.537 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.537 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.537 ERR! host worker   errno: -4058,
+15:38:36.537 ERR! host worker   code: 'ENOENT',
+15:38:36.537 ERR! host worker   syscall: 'open',
+15:38:36.537 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.537 ERR! host worker }
+15:38:36.538 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.538 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.538 ERR! host worker   errno: -4058,
+15:38:36.538 ERR! host worker   code: 'ENOENT',
+15:38:36.538 ERR! host worker   syscall: 'open',
+15:38:36.538 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.538 ERR! host worker }
+15:38:36.539 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.540 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.540 ERR! host worker   errno: -4058,
+15:38:36.540 ERR! host worker   code: 'ENOENT',
+15:38:36.540 ERR! host worker   syscall: 'open',
+15:38:36.540 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.540 ERR! host worker }
+15:38:36.541 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.541 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.541 ERR! host worker   errno: -4058,
+15:38:36.541 ERR! host worker   code: 'ENOENT',
+15:38:36.541 ERR! host worker   syscall: 'open',
+15:38:36.541 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.541 ERR! host worker }
+15:38:36.542 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.542 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.542 ERR! host worker   errno: -4058,
+15:38:36.542 ERR! host worker   code: 'ENOENT',
+15:38:36.542 ERR! host worker   syscall: 'open',
+15:38:36.542 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.542 ERR! host worker }
+15:38:36.543 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.543 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.543 ERR! host worker   errno: -4058,
+15:38:36.543 ERR! host worker   code: 'ENOENT',
+15:38:36.543 ERR! host worker   syscall: 'open',
+15:38:36.543 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.543 ERR! host worker }
+15:38:36.546 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.546 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.547 ERR! host worker   errno: -4058,
+15:38:36.547 ERR! host worker   code: 'ENOENT',
+15:38:36.547 ERR! host worker   syscall: 'open',
+15:38:36.547 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.547 ERR! host worker }
+15:38:36.549 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.549 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.549 ERR! host worker   errno: -4058,
+15:38:36.549 ERR! host worker   code: 'ENOENT',
+15:38:36.549 ERR! host worker   syscall: 'open',
+15:38:36.549 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.549 ERR! host worker }
+15:38:36.551 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.551 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.551 ERR! host worker   errno: -4058,
+15:38:36.551 ERR! host worker   code: 'ENOENT',
+15:38:36.551 ERR! host worker   syscall: 'open',
+15:38:36.551 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.551 ERR! host worker }
+15:38:36.552 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.552 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.552 ERR! host worker   errno: -4058,
+15:38:36.552 ERR! host worker   code: 'ENOENT',
+15:38:36.552 ERR! host worker   syscall: 'open',
+15:38:36.552 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.552 ERR! host worker }
+15:38:36.553 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.553 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.553 ERR! host worker   errno: -4058,
+15:38:36.553 ERR! host worker   code: 'ENOENT',
+15:38:36.553 ERR! host worker   syscall: 'open',
+15:38:36.553 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.553 ERR! host worker }
+15:38:36.554 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.554 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.554 ERR! host worker   errno: -4058,
+15:38:36.554 ERR! host worker   code: 'ENOENT',
+15:38:36.554 ERR! host worker   syscall: 'open',
+15:38:36.554 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.554 ERR! host worker }
+15:38:36.555 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.555 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.555 ERR! host worker   errno: -4058,
+15:38:36.555 ERR! host worker   code: 'ENOENT',
+15:38:36.555 ERR! host worker   syscall: 'open',
+15:38:36.555 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.555 ERR! host worker }
+15:38:36.557 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.557 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.557 ERR! host worker   errno: -4058,
+15:38:36.557 ERR! host worker   code: 'ENOENT',
+15:38:36.557 ERR! host worker   syscall: 'open',
+15:38:36.557 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.557 ERR! host worker }
+15:38:36.558 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.558 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.558 ERR! host worker   errno: -4058,
+15:38:36.558 ERR! host worker   code: 'ENOENT',
+15:38:36.558 ERR! host worker   syscall: 'open',
+15:38:36.558 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.558 ERR! host worker }
+15:38:36.559 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.559 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.559 ERR! host worker   errno: -4058,
+15:38:36.559 ERR! host worker   code: 'ENOENT',
+15:38:36.559 ERR! host worker   syscall: 'open',
+15:38:36.559 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.559 ERR! host worker }
+15:38:36.600 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.600 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.600 ERR! host worker   errno: -4058,
+15:38:36.600 ERR! host worker   code: 'ENOENT',
+15:38:36.601 ERR! host worker   syscall: 'open',
+15:38:36.601 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.601 ERR! host worker }
+15:38:36.603 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.603 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.603 ERR! host worker   errno: -4058,
+15:38:36.603 ERR! host worker   code: 'ENOENT',
+15:38:36.603 ERR! host worker   syscall: 'open',
+15:38:36.603 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.603 ERR! host worker }
+15:38:36.604 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.604 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.604 ERR! host worker   errno: -4058,
+15:38:36.604 ERR! host worker   code: 'ENOENT',
+15:38:36.604 ERR! host worker   syscall: 'open',
+15:38:36.604 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.604 ERR! host worker }
+15:38:36.606 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.606 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.606 ERR! host worker   errno: -4058,
+15:38:36.606 ERR! host worker   code: 'ENOENT',
+15:38:36.606 ERR! host worker   syscall: 'open',
+15:38:36.606 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.606 ERR! host worker }
+15:38:36.607 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.607 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.607 ERR! host worker   errno: -4058,
+15:38:36.607 ERR! host worker   code: 'ENOENT',
+15:38:36.607 ERR! host worker   syscall: 'open',
+15:38:36.607 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.607 ERR! host worker }
+15:38:36.609 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.609 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.609 ERR! host worker   errno: -4058,
+15:38:36.609 ERR! host worker   code: 'ENOENT',
+15:38:36.609 ERR! host worker   syscall: 'open',
+15:38:36.609 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.609 ERR! host worker }
+15:38:36.610 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.610 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.610 ERR! host worker   errno: -4058,
+15:38:36.611 ERR! host worker   code: 'ENOENT',
+15:38:36.611 ERR! host worker   syscall: 'open',
+15:38:36.611 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.611 ERR! host worker }
+15:38:36.612 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.612 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.612 ERR! host worker   errno: -4058,
+15:38:36.612 ERR! host worker   code: 'ENOENT',
+15:38:36.612 ERR! host worker   syscall: 'open',
+15:38:36.612 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.612 ERR! host worker }
+15:38:36.614 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.614 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.614 ERR! host worker   errno: -4058,
+15:38:36.614 ERR! host worker   code: 'ENOENT',
+15:38:36.614 ERR! host worker   syscall: 'open',
+15:38:36.614 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.614 ERR! host worker }
+15:38:36.616 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.616 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.616 ERR! host worker   errno: -4058,
+15:38:36.616 ERR! host worker   code: 'ENOENT',
+15:38:36.616 ERR! host worker   syscall: 'open',
+15:38:36.616 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.616 ERR! host worker }
+15:38:36.617 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.617 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.617 ERR! host worker   errno: -4058,
+15:38:36.617 ERR! host worker   code: 'ENOENT',
+15:38:36.617 ERR! host worker   syscall: 'open',
+15:38:36.617 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.617 ERR! host worker }
+15:38:36.619 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.619 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.619 ERR! host worker   errno: -4058,
+15:38:36.619 ERR! host worker   code: 'ENOENT',
+15:38:36.619 ERR! host worker   syscall: 'open',
+15:38:36.619 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.619 ERR! host worker }
+15:38:36.621 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.621 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.621 ERR! host worker   errno: -4058,
+15:38:36.621 ERR! host worker   code: 'ENOENT',
+15:38:36.621 ERR! host worker   syscall: 'open',
+15:38:36.621 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.621 ERR! host worker }
+15:38:36.622 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.622 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.622 ERR! host worker   errno: -4058,
+15:38:36.622 ERR! host worker   code: 'ENOENT',
+15:38:36.622 ERR! host worker   syscall: 'open',
+15:38:36.622 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.622 ERR! host worker }
+15:38:36.623 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.624 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.624 ERR! host worker   errno: -4058,
+15:38:36.624 ERR! host worker   code: 'ENOENT',
+15:38:36.624 ERR! host worker   syscall: 'open',
+15:38:36.624 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.624 ERR! host worker }
+15:38:36.626 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.626 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.626 ERR! host worker   errno: -4058,
+15:38:36.626 ERR! host worker   code: 'ENOENT',
+15:38:36.626 ERR! host worker   syscall: 'open',
+15:38:36.626 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.626 ERR! host worker }
+15:38:36.627 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.627 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.627 ERR! host worker   errno: -4058,
+15:38:36.627 ERR! host worker   code: 'ENOENT',
+15:38:36.627 ERR! host worker   syscall: 'open',
+15:38:36.627 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.627 ERR! host worker }
+15:38:36.628 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.628 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.628 ERR! host worker   errno: -4058,
+15:38:36.628 ERR! host worker   code: 'ENOENT',
+15:38:36.628 ERR! host worker   syscall: 'open',
+15:38:36.628 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.628 ERR! host worker }
+15:38:36.630 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.639 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.639 ERR! host worker   errno: -4058,
+15:38:36.639 ERR! host worker   code: 'ENOENT',
+15:38:36.639 ERR! host worker   syscall: 'open',
+15:38:36.639 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.639 ERR! host worker }
+15:38:36.646 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.646 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.646 ERR! host worker   errno: -4058,
+15:38:36.646 ERR! host worker   code: 'ENOENT',
+15:38:36.646 ERR! host worker   syscall: 'open',
+15:38:36.646 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.646 ERR! host worker }
+15:38:36.647 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.647 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.647 ERR! host worker   errno: -4058,
+15:38:36.647 ERR! host worker   code: 'ENOENT',
+15:38:36.647 ERR! host worker   syscall: 'open',
+15:38:36.647 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.648 ERR! host worker }
+15:38:36.650 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.650 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.650 ERR! host worker   errno: -4058,
+15:38:36.650 ERR! host worker   code: 'ENOENT',
+15:38:36.650 ERR! host worker   syscall: 'open',
+15:38:36.650 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.650 ERR! host worker }
+15:38:36.651 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.651 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.651 ERR! host worker   errno: -4058,
+15:38:36.651 ERR! host worker   code: 'ENOENT',
+15:38:36.651 ERR! host worker   syscall: 'open',
+15:38:36.651 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.651 ERR! host worker }
+15:38:36.653 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.653 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.653 ERR! host worker   errno: -4058,
+15:38:36.653 ERR! host worker   code: 'ENOENT',
+15:38:36.653 ERR! host worker   syscall: 'open',
+15:38:36.653 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.653 ERR! host worker }
+15:38:36.654 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.654 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.654 ERR! host worker   errno: -4058,
+15:38:36.654 ERR! host worker   code: 'ENOENT',
+15:38:36.654 ERR! host worker   syscall: 'open',
+15:38:36.654 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.654 ERR! host worker }
+15:38:36.655 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.655 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.655 ERR! host worker   errno: -4058,
+15:38:36.655 ERR! host worker   code: 'ENOENT',
+15:38:36.655 ERR! host worker   syscall: 'open',
+15:38:36.655 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.655 ERR! host worker }
+15:38:36.656 ERR! host worker Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'
+15:38:36.656 ERR! host worker  Error with host worker writing to file [Error: ENOENT: no such file or directory, open 'C:\Users\v3ty_\.console-ninja\.cache\e26509131837abc3fe235002c32f4693\plaintext-webpack-1.txt'] {
+15:38:36.656 ERR! host worker   errno: -4058,
+15:38:36.656 ERR! host worker   code: 'ENOENT',
+15:38:36.656 ERR! host worker   syscall: 'open',
+15:38:36.656 ERR! host worker   path: 'C:\\Users\\v3ty_\\.console-ninja\\.cache\\e26509131837abc3fe235002c32f4693\\plaintext-webpack-1.txt'
+15:38:36.656 ERR! host worker }
+20:57:08.741 info extension stopping host
+20:57:11.059 info host ------------ starting ------------
+20:57:12.428 info host worker Starting Host Worker...
+20:57:12.634 info extension host process output: port:[61746]
+20:57:12.634 info extension 
+20:57:16.122 info host client connected: extension { address: '::', family: 'IPv6', port: 61746 }
+20:57:16.231 info host starting host: {"extensionFolder":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.144","runtimeHookFile":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.144\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.144\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"c:\\Users\\v3ty_\\OneDrive\\Escritorio\\PI-POKEMON\\PI-Pokemon-main\\client\\src\\redux\\actions.js","reason":"open"},{"path":"c:\\Users\\v3ty_\\OneDrive\\Escritorio\\PI-POKEMON\\PI-Pokemon-main\\api\\src\\routes\\pokemons.js","reason":"open"},{"path":"c:\\Users\\v3ty_\\OneDrive\\Escritorio\\PI-POKEMON\\PI-Pokemon-main\\client\\src\\App.test.js","reason":"open"},{"path":"c:\\Users\\v3ty_\\OneDrive\\Escritorio\\PI-POKEMON\\PI-Pokemon-main\\client\\src\\App.js","reason":"open"},{"path":"c:\\Users\\v3ty_\\OneDrive\\Escritorio\\PI-POKEMON\\PI-Pokemon-main\\api\\src\\middlewares\\middleware.js","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","LAPTOP-55DF6D53","192.168.1.50"],"host":"127.0.0.1"}
+20:57:16.323 info host starting tools discovery and integration
+20:57:20.474 info host looking for tools to patch
+21:00:21.436 info host found 3 tool file(s) to patch
+21:00:21.485 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\webpack\lib\webpack.js
+21:00:21.581 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\jest\bin\jest.js
+21:00:21.582 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\jest-runner\build\testWorker.js
+21:00:21.874 info host completed tools discovery and integration
+21:15:18.994 info host scheduling tools patching
+21:15:21.004 info host looking for tools to patch
+21:15:22.873 info host found 4 tool file(s) to patch
+21:15:22.876 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\webpack\lib\index.js
+21:15:22.877 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\webpack\lib\webpack.js
+21:15:22.877 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\jest\bin\jest.js
+21:15:22.878 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\jest-runner\build\testWorker.js
+08:57:36.456 info buildHook-13216 installing build hook for webpack at C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client, node v16.17.0
+09:00:24.409 info host client connected: buildHook { address: '::', family: 'IPv6', port: 61746 }
+08:57:36.716 info buildHook-13216 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+08:57:36.716 info buildHook-13216 running tools: webpack
+08:57:36.799 info buildHook-13216 installing fs interceptor
+08:59:13.418 info buildHook-13216 build hook already installed
+09:00:14.218 info buildHook-13216 file processed (stat): 0 log points, error handler: false
+09:00:14.387 info buildHook-13216 file processed (stat): 1 log points, error handler: false
+09:00:24.471 info buildHook-13216 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+09:00:24.472 info buildHook-13216 running tools: webpack
+09:00:24.538 info buildHook-13216 file processed (stat): 0 log points, error handler: false
+09:00:24.724 info buildHook-13216 file processed (stat): 0 log points, error handler: false
+09:01:22.302 info buildHook-13216 file processed (stat): 0 log points, error handler: false
+09:07:31.890 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 61746 }
+09:08:01.793 info host client disconnected: runtimeHook 1001
+09:08:01.793 info host client disconnected: runtimeHook
+09:29:12.731 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 61746 }
+09:29:14.610 info host client disconnected: runtimeHook 1001
+09:29:14.610 info host client disconnected: runtimeHook
+09:29:34.898 info buildHook-13216 file processed (stat): 0 log points, error handler: false
+09:58:26.951 info buildHook-13216 file processed (stat): 0 log points, error handler: false
+10:26:03.247 info buildHook-13216 file processed (stat): 0 log points, error handler: false
+10:26:38.953 info buildHook-13216 file processed (stat): 0 log points, error handler: false
+10:26:41.164 info buildHook-13216 file processed (stat): 0 log points, error handler: false
+10:26:43.997 info buildHook-13216 file processed (stat): 0 log points, error handler: false
+22:14:11.083 info host scheduling tools patching
+22:14:11.396 info host scheduling tools patching
+22:14:13.408 info host looking for tools to patch
+22:15:54.250 info host found 2 tool file(s) to patch
+22:15:54.654 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\jest\bin\jest.js
+22:15:54.813 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\webpack\lib\webpack.js
+22:18:59.261 info host client disconnected: buildHook 4100
+22:18:59.262 info host client disconnected: buildHook 4100, has clients false
+22:31:56.937 info host scheduling tools patching
+22:31:58.940 info host looking for tools to patch
+22:32:03.151 info host found 4 tool file(s) to patch
+22:32:03.158 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\webpack\lib\index.js
+22:32:03.158 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\webpack\lib\webpack.js
+22:32:03.159 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\jest\bin\jest.js
+22:32:03.159 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\jest-runner\build\testWorker.js
+22:33:54.774 info buildHook-4852 installing build hook for webpack at C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client, node v16.17.0
+22:33:54.818 info buildHook-4852 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+22:35:45.027 info host client connected: buildHook { address: '::', family: 'IPv6', port: 61746 }
+22:33:54.818 info buildHook-4852 running tools: webpack
+22:33:54.824 info buildHook-4852 installing fs interceptor
+22:34:00.176 info buildHook-4852 file processed (stat): 0 log points, error handler: false
+22:35:01.785 info buildHook-4852 build hook already installed
+22:35:25.372 info buildHook-4852 file processed (stat): 0 log points, error handler: false
+22:35:25.466 info buildHook-4852 file processed (stat): 0 log points, error handler: false
+22:35:25.606 info buildHook-4852 file processed (stat): 1 log points, error handler: false
+22:35:25.640 info buildHook-4852 file processed (stat): 0 log points, error handler: false
+22:35:45.045 info buildHook-4852 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+22:35:45.045 info buildHook-4852 running tools: webpack
+22:35:45.065 info buildHook-4852 file processed (stat): 0 log points, error handler: false
+22:37:20.884 info buildHook-4852 file processed (stat): 0 log points, error handler: false
+23:07:10.505 info buildHook-4852 file processed (stat): 0 log points, error handler: false
+23:07:16.916 info buildHook-4852 file processed (stat): 0 log points, error handler: false
+23:07:25.954 info buildHook-4852 file processed (stat): 0 log points, error handler: false
+23:13:01.926 info buildHook-4852 file processed (stat): 0 log points, error handler: false
+23:13:02.007 info buildHook-4852 file processed (stat): 0 log points, error handler: false
+23:13:02.252 info buildHook-4852 file processed (stat): 0 log points, error handler: false
+23:13:02.270 info buildHook-4852 file processed (stat): 0 log points, error handler: false
+23:13:02.294 info buildHook-4852 file processed (stat): 0 log points, error handler: false
+23:13:06.029 info host scheduling tools patching
+23:13:06.106 info host scheduling tools patching
+23:13:08.126 info host looking for tools to patch
+23:13:15.957 info host found 4 tool file(s) to patch
+23:13:15.960 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\webpack\lib\index.js
+23:13:15.961 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\webpack\lib\webpack.js
+23:13:15.962 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\jest\bin\jest.js
+23:13:15.964 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\jest-runner\build\testWorker.js
+23:22:18.985 info host scheduling tools patching
+23:22:19.065 info host scheduling tools patching
+23:22:21.078 info host looking for tools to patch
+23:22:24.785 info host found 4 tool file(s) to patch
+23:22:24.789 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\webpack\lib\index.js
+23:22:24.789 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\webpack\lib\webpack.js
+23:22:24.790 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\jest\bin\jest.js
+23:22:24.791 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\jest-runner\build\testWorker.js
+00:28:54.383 info host scheduling tools patching
+00:28:54.467 info host scheduling tools patching
+00:28:56.475 info host looking for tools to patch
+00:29:01.276 info host found 4 tool file(s) to patch
+00:29:01.283 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\webpack\lib\index.js
+00:29:01.284 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\webpack\lib\webpack.js
+00:29:01.285 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\jest\bin\jest.js
+00:29:01.285 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\jest-runner\build\testWorker.js
+00:29:16.748 info host client disconnected: buildHook 1006
+00:29:16.748 info host client disconnected: buildHook 1006, has clients false
+09:11:23.661 info host ------------ starting ------------
+09:11:24.672 info host worker Starting Host Worker...
+09:11:21.508 info extension stopping host
+09:11:27.304 info extension host process output: port:[61746]
+09:11:27.304 info extension 
+09:11:27.984 info host client connected: extension { address: '::', family: 'IPv6', port: 61746 }
+09:11:29.355 info host starting host: {"extensionFolder":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.145","runtimeHookFile":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.145\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.145\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","LAPTOP-55DF6D53","192.168.1.42"],"host":"127.0.0.1"}
+09:11:29.408 info host starting tools discovery and integration
+09:11:30.343 info host updating C:\Users\v3ty_\.console-ninja\.bin\loader.js
+09:11:31.651 info host looking for tools to patch
+09:11:33.424 info host removing cache folder: a3b8a4dde148ef28e236dc84ac2344ec
+09:12:33.974 info host found 4 tool file(s) to patch
+09:12:33.984 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\webpack\lib\index.js
+09:12:33.989 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\webpack\lib\webpack.js
+09:12:33.990 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\jest\bin\jest.js
+09:12:33.991 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\jest-runner\build\testWorker.js
+09:12:34.329 info host completed tools discovery and integration
+09:54:26.122 info buildHook-216 installing build hook for webpack at C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client, node v16.17.0
+09:57:47.324 info host client connected: buildHook { address: '::', family: 'IPv6', port: 61746 }
+09:54:26.326 info buildHook-216 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+09:54:26.328 info buildHook-216 running tools: webpack
+09:54:26.417 info buildHook-216 installing fs interceptor
+09:54:42.445 info buildHook-216 file processed (stat): 0 log points, error handler: false
+09:56:13.960 info buildHook-216 build hook already installed
+09:57:31.537 info buildHook-216 file processed (stat): 0 log points, error handler: false
+09:57:31.636 info buildHook-216 file processed (stat): 1 log points, error handler: false
+09:57:47.797 info buildHook-216 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+09:57:47.798 info buildHook-216 running tools: webpack
+09:57:47.992 info buildHook-216 file processed (stat): 0 log points, error handler: false
+09:58:14.664 info buildHook-4552 installing build hook for webpack at C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client, node v16.17.0
+09:58:14.719 info buildHook-4552 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+09:58:23.771 info host client connected: buildHook { address: '::', family: 'IPv6', port: 61746 }
+09:58:14.719 info buildHook-4552 running tools: webpack
+09:58:14.729 info buildHook-4552 installing fs interceptor
+09:58:16.547 info buildHook-4552 file processed (stat): 0 log points, error handler: false
+09:58:23.790 info buildHook-4552 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+09:58:23.790 info buildHook-4552 running tools: webpack
+09:59:51.953 info host client disconnected: buildHook 4100
+09:59:51.955 info host client disconnected: buildHook 4100, has clients true
+10:00:33.684 info host client disconnected: buildHook 1006
+10:00:33.684 info host client disconnected: buildHook 1006, has clients false
+10:00:58.568 info buildHook-7556 installing build hook for webpack at C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client, node v16.17.0
+10:01:14.198 info host client connected: buildHook { address: '::', family: 'IPv6', port: 61746 }
+10:00:58.630 info buildHook-7556 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+10:00:58.630 info buildHook-7556 running tools: webpack
+10:00:58.639 info buildHook-7556 installing fs interceptor
+10:01:00.193 info buildHook-7556 file processed (stat): 0 log points, error handler: false
+10:01:06.396 info buildHook-7556 build hook already installed
+10:01:11.823 info buildHook-7556 file processed (stat): 0 log points, error handler: false
+10:01:11.910 info buildHook-7556 file processed (stat): 1 log points, error handler: false
+10:01:14.260 info buildHook-7556 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, live-server, nuxt, remix, qwik, hydrogen, serverless, astro, node
+10:01:14.260 info buildHook-7556 running tools: webpack
+10:01:14.276 info buildHook-7556 file processed (stat): 0 log points, error handler: false
+11:49:36.029 info buildHook-7556 file processed (stat): 0 log points, error handler: false
+12:02:25.158 info buildHook-7556 file processed (stat): 0 log points, error handler: false
+12:27:58.789 info host client disconnected: buildHook 1006
+12:27:58.792 info host client disconnected: buildHook 1006, has clients false
+15:41:53.558 info extension stopping host
+15:42:04.250 info host removing cache folder: a540912429ea49064710e29adfb154fb
+17:33:54.762 info extension stopping host
+17:34:26.267 info extension stopping host
+17:34:45.207 info extension host process output: port:[59182]
+17:34:30.102 info host ------------ starting ------------
+17:34:49.294 info host worker Starting Host Worker...
+17:34:45.210 info extension 
+17:34:50.482 info host client connected: extension { address: '::', family: 'IPv6', port: 59182 }
+17:34:50.511 info host starting host: {"extensionFolder":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.152","runtimeHookFile":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.152\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.152\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","LAPTOP-55DF6D53","192.168.1.42"],"host":"127.0.0.1"}
+17:34:50.658 info host starting tools discovery and integration
+17:34:51.132 info host updating C:\Users\v3ty_\.console-ninja\.bin\loader.js
+17:34:51.753 info host looking for tools to patch
+17:34:52.134 info host found 0 tool file(s) to patch
+17:34:52.162 info host completed tools discovery and integration
+17:45:12.715 info extension stopping host
+17:45:12.752 info host removing cache folder: b09ec5d3f76af6b89cc1ee4f9833663e
+17:46:10.103 info extension stopping host
+18:19:31.142 info extension stopping host
+14:59:07.301 info extension stopping host
+14:59:28.469 info extension stopping host
+14:59:34.624 info extension host process output: port:[61150]
+14:59:33.041 info host ------------ starting ------------
+14:59:35.616 info host worker Starting Host Worker...
+14:59:34.624 info extension 
+14:59:42.821 info host client connected: extension { address: '::', family: 'IPv6', port: 61150 }
+14:59:43.079 info host starting host: {"extensionFolder":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.153","runtimeHookFile":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.153\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.153\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","LAPTOP-55DF6D53","192.168.1.42"],"host":"127.0.0.1"}
+14:59:43.171 info host starting tools discovery and integration
+14:59:43.865 info host updating C:\Users\v3ty_\.console-ninja\.bin\loader.js
+14:59:49.088 info host looking for tools to patch
+14:59:49.128 info host found 0 tool file(s) to patch
+14:59:49.151 info host completed tools discovery and integration
+18:26:34.690 info extension stopping host
+18:26:34.917 info host removing cache folder: 1a77cb2e1a21f557ca3ab0fd4b01110d
+18:27:44.617 info extension stopping host
+18:27:47.275 info host ------------ starting ------------
+18:27:48.254 info extension host process output: port:[61707]
+18:27:48.254 info extension 
+18:27:49.584 info host client connected: extension { address: '::', family: 'IPv6', port: 61707 }
+18:27:50.805 info host starting host: {"extensionFolder":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.153","runtimeHookFile":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.153\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.153\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","LAPTOP-55DF6D53","192.168.1.42"],"host":"127.0.0.1"}
+18:27:51.030 info host worker Starting Host Worker...
+18:27:51.073 info host starting tools discovery and integration
+18:27:53.955 info host looking for tools to patch
+18:27:58.315 info host found 0 tool file(s) to patch
+18:27:58.444 info host completed tools discovery and integration
+18:39:06.215 info extension stopping host
+18:39:06.314 info host removing cache folder: 84a3e3ee52f2d0111012492ec4566f0a
+18:39:39.773 info extension stopping host
+18:39:42.587 info extension host process output: port:[61814]
+18:39:42.504 info host ------------ starting ------------
+18:39:42.587 info extension 
+18:39:42.984 info host client connected: extension { address: '::', family: 'IPv6', port: 61814 }
+18:39:43.340 info host worker Starting Host Worker...
+18:39:45.138 info host starting host: {"extensionFolder":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.153","runtimeHookFile":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.153\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.153\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","LAPTOP-55DF6D53","192.168.1.42"],"host":"127.0.0.1"}
+18:39:45.337 info host starting tools discovery and integration
+18:39:45.414 info host looking for tools to patch
+18:39:45.751 info host found 0 tool file(s) to patch
+18:39:45.949 info host completed tools discovery and integration
+18:45:28.663 info extension stopping host
+18:45:28.712 info host removing cache folder: 34744cd1896cb59a5db2b4851336875e
+20:22:36.947 info extension stopping host
+23:11:23.810 info extension stopping host
+17:58:34.104 info extension stopping host
+22:54:11.467 info extension stopping host
+15:13:51.395 info extension stopping host
+15:13:58.906 info extension host process output: port:[61746]
+15:13:57.675 info host ------------ starting ------------
+15:13:58.906 info extension 
+15:14:00.972 info host client connected: extension { address: '::', family: 'IPv6', port: 61746 }
+15:14:01.186 info host starting host: {"extensionFolder":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.157","runtimeHookFile":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.157\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.157\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"c:\\Users\\v3ty_\\OneDrive\\Escritorio\\PI-POKEMON\\PI-Pokemon-main\\api\\index.js","reason":"open"},{"path":"c:\\Users\\v3ty_\\OneDrive\\Escritorio\\PI-POKEMON\\PI-Pokemon-main\\api\\src\\app.js","reason":"open"},{"path":"c:\\Users\\v3ty_\\OneDrive\\Escritorio\\PI-POKEMON\\PI-Pokemon-main\\client\\src\\App.js","reason":"open"},{"path":"c:\\Users\\v3ty_\\OneDrive\\Escritorio\\PI-POKEMON\\PI-Pokemon-main\\api\\src\\db.js","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","LAPTOP-55DF6D53","192.168.1.42"],"host":"127.0.0.1"}
+15:14:01.309 info host starting tools discovery and integration
+15:14:03.514 info host updating C:\Users\v3ty_\.console-ninja\.bin\loader.js
+15:14:04.092 info host worker Starting Host Worker...
+15:14:07.973 info host looking for tools to patch
+15:26:13.948 info host found 4 tool file(s) to patch
+15:26:13.980 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\webpack\lib\index.js
+15:26:13.982 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\webpack\lib\webpack.js
+15:26:14.020 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\jest\bin\jest.js
+15:26:14.020 info host patching C:\Users\v3ty_\OneDrive\Escritorio\PI-POKEMON\PI-Pokemon-main\client\node_modules\jest-runner\build\testWorker.js
+15:27:03.085 info host completed tools discovery and integration
+18:16:14.901 info extension stopping host
+18:16:15.143 info host removing cache folder: a5e47e8180306b15af60e5724f1de151
+23:54:29.802 info extension stopping host
+14:51:14.831 info extension stopping host
+00:07:26.633 info extension stopping host
+13:35:12.980 info extension stopping host
+00:31:45.691 info extension stopping host
+00:49:27.035 info extension stopping host
+18:35:12.891 info extension stopping host
+18:36:56.534 info extension stopping host
+18:37:31.311 info extension stopping host
+18:37:34.411 info host ------------ starting ------------
+18:37:35.010 info extension host process output: port:[61956]
+18:37:35.011 info extension 
+18:37:35.942 info host client connected: extension { address: '::', family: 'IPv6', port: 61956 }
+18:37:37.378 info host worker Starting Host Worker...
+18:37:38.503 info host starting host: {"extensionFolder":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.167","runtimeHookFile":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.167\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\v3ty_\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.167\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"c:\\Users\\v3ty_\\OneDrive\\Escritorio\\HENRY JS\\CPM1\\2023-02-04-percylin33\\checkpoint\\01.js","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","showDateTime":true,"installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","LAPTOP-55DF6D53","192.168.1.42"],"host":"127.0.0.1"}
+18:37:39.028 info host starting tools discovery and integration
+18:37:40.231 info host updating C:\Users\v3ty_\.console-ninja\.bin\loader.js
+18:37:41.516 info host looking for tools to patch
+18:37:55.104 info host found 2 tool file(s) to patch
+18:37:55.185 info host patching C:\Users\v3ty_\OneDrive\Escritorio\HENRY JS\CPM1\2023-02-04-percylin33\node_modules\jest\bin\jest.js
+18:37:55.189 info host patching C:\Users\v3ty_\OneDrive\Escritorio\HENRY JS\CPM1\2023-02-04-percylin33\node_modules\jest-runner\build\testWorker.js
+18:37:55.418 info host completed tools discovery and integration
+21:01:27.394 info extension stopping host
+21:01:29.477 info host removing cache folder: 286cceea20e4cf70932770588500f273
+22:10:25.678 info extension stopping host
+00:17:07.362 info extension stopping host
+13:37:04.521 info extension stopping host
+00:48:03.980 info extension stopping host
+00:49:05.892 info extension stopping host
+00:49:09.798 info host ------------ starting ------------
+00:49:10.632 info extension host process output: port:[55166]
+00:49:10.633 info extension 
+00:49:11.116 info host client connected: extension { address: '::', family: 'IPv6', port: 55166 }

@@ -1,0 +1,31 @@
+2+2
+5+8
+x= 200
+x
+x/5
+db
+show dbs
+use webstore
+db
+show dbs
+db.products.insert({"name":"laptop"})
+show dbs
+show collections
+db
+db.dropDatabase()
+show dbs
+use wedstore
+show collection
+show collections
+db.createCollection("users")
+show collections
+db.createCollection("products")
+show collections
+db.createCollection("sellers")
+show collections
+db.products.drop()
+show collections
+db
+db.users.insert({"name":"percy"})
+db.users.find()
+db.runCommand({ serverStatus: 1 })
